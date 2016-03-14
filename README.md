@@ -1,2 +1,3 @@
-# python_mapping_stack_tour
-Python mapping stack tour
+# Python mapping stack tour
+
+Basemap, cartopy, mplleaflet, folium, bokeh, and beyond.
