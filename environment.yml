@@ -1,0 +1,15 @@
+name: maps
+channels:
+    - ioos
+dependencies:
+    - python=3.5
+    - jupyter
+    - basemap
+    - cartopy
+    - mplleaflet
+    - folium
+    - bokeh
+    - seawater
+    - gpxpy
+    - oceans
+    - geopandas
