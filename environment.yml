@@ -2,7 +2,7 @@ name: maps
 channels:
     - ioos
 dependencies:
-    - python=3.5
+    - python=3.4
     - jupyter
     - basemap
     - cartopy
