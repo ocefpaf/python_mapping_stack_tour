@@ -13,3 +13,6 @@ jupyter notebook
 to install conda see [this tutorial](https://github.com/ocefpaf/python_mapping_stack_tour).
 
 You can also try the notebooks on your browser thanks with [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ocefpaf/python_mapping_stack_tour/master).
+
+
+[TSWG - Meetings - 20160317 - "New Python mapping tools"](https://my.usgs.gov/confluence/pages/viewpage.action?pageId=542482194)
