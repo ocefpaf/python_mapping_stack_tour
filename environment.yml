@@ -1,15 +1,15 @@
 name: maps
 channels:
-    - ioos
+  - conda-forge
 dependencies:
-    - python=3.4
-    - jupyter
-    - basemap
-    - cartopy
-    - mplleaflet
-    - folium
-    - bokeh
-    - seawater
-    - gpxpy
-    - oceans
-    - geopandas
+  - python=3.6
+  - basemap
+  - bokeh
+  - cartopy
+  - folium
+  - geopandas
+  - gpxpy
+  - jupyter
+  - mplleaflet
+  - oceans
+  - seawater
