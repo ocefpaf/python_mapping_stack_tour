@@ -10,7 +10,7 @@ source activate MAPS
 jupyter notebook
 ```
 
-to install conda see [this tutorial](https://github.com/ocefpaf/python_mapping_stack_tour).
+to install conda see [this tutorial](http://ioos.github.io/notebooks_demos/other_resources).
 
 You can also try the notebooks on your browser thanks with [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ocefpaf/python_mapping_stack_tour/master).
 
